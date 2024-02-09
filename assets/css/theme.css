@@ -18311,7 +18311,7 @@ form button {
 }
 
 .home{
-  background-image: url(../img/superhero/homebg.jpg);
+  background-color: #59b4fa;
   background-size: cover;
   min-height: 100vh;
   margin: 0;
@@ -18675,7 +18675,7 @@ hr{
   }
 .home{
   min-height: 0;
-  background-image: url(../img/superhero/mob\ home.webp);
+  background-color: #59b4fa;
 
 }
 
